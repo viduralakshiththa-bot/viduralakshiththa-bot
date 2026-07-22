@@ -23,28 +23,38 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </p>
 ---
 
-## 👨‍💻 About Me <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
+<!-- ================= ABOUT ME ================= -->
 
-🎓 3rd Year Information Systems Engineering Undergraduate at SLIIT
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0F2027,50:00C2FF,100:2C5364&text=👨‍💻%20About%20Me&fontColor=FFFFFF&fontSize=35&animation=fadeIn" width="100%" />
+</p>
 
-💡 Passionate about
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+</p>
 
-- Enterprise Systems
-- Software Architecture
-- Business Analysis
-- Full Stack Development
-- REST API Engineering
-- Database Design
-- Data Engineering
+🎓 **3rd Year (1st Semester)** Information Systems Engineering Undergraduate at **SLIIT**
 
-🚀 Currently Learning
+💡 Passionate about building scalable enterprise solutions and bridging business requirements with software engineering.
 
-- Microservices
-- Spring Boot
-- Enterprise Architecture
-- Cloud Computing
-- Docker
-- Kubernetes
+### 🚀 Interests
+
+- 🏢 Enterprise Systems
+- 🏗 Software Architecture
+- 📊 Business Analysis
+- 💻 Full Stack Development
+- 🌐 RESTful API Engineering
+- 🗄 Database Design
+- 📈 Data Engineering
+
+### 🌱 Currently Learning
+
+- ☁ Cloud Computing
+- 🐳 Docker
+- ⚡ Spring Boot
+- 🧩 Microservices Architecture
+- 🏛 Enterprise Architecture
+- ☸ Kubernetes
 
 ## 🛠 Tech Stack
 
