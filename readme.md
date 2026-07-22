@@ -25,7 +25,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <!-- ================= ABOUT ME ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=170&text=👨‍💻%20About%20Me&fontColor=ffffff&fontSize=40&animation=fadeIn&color=0:0F2027,50:00C2FF,100:2C5364"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F2027,50:00C2FF,100:2C5364&text=👨‍💻%20About%20Me&fontColor=FFFFFF&fontSize=38&animation=twinkling"/>
 </p>
 
 
