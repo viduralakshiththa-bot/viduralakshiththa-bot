@@ -1,18 +1,26 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:00ff41,100:000000&text=VIKUM%20D&fontColor=00ff41&fontAlign=50&fontSize=70&desc=AI%20SECURITY%20ENGINEER%20|%20ETHICAL%20HACKER&descAlign=50&descAlignY=70&animation=twinkle" width="100%" />
-</p>
-<h1 align="center">
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Jeewantha Dissanayake
-</h1>
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Information+Systems+Engineering+Student;Enterprise+Application+Developer;Systems+Analysis+%26+Design;Spring+Boot+Developer;Business+Process+Optimization;Always+Learning+New+Technologies"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:00C2FF,100:2C5364&text=Jeewantha%20Dissanayake&fontColor=FFFFFF&fontAlign=50&fontSize=55&desc=Information%20Systems%20Engineering%20Undergraduate&descAlign=50&descAlignY=68&animation=twinkling" width="100%" />
 </p>
+
+<!-- Greeting -->
+
+<h2 align="center">
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Welcome to my GitHub!
+</h2>
+
+<!-- Typing Animation -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=5000&pause=1500&color=00C2FF&center=true&vCenter=true&width=900&lines=Information+Systems+Engineering+Student;Enterprise+Application+Developer;Systems+Analysis+%26+Software+Design;RESTful+API+Engineer;Business+Process+Optimization;Always+Learning+New+Technologies" />
 </p>
 
+<!-- Small Coding Animation -->
+
+<p align="center">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+</p>
 ---
 
 ## 👨‍💻 About Me <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
