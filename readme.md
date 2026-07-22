@@ -31,26 +31,30 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 🎓 **3rd Year (1st Semester)** Information Systems Engineering Undergraduate at **SLIIT**
 
-💡 Passionate about building scalable enterprise solutions and bridging business requirements with software engineering.
+<!-- ================= SYSTEM INFO ================= -->
 
-### 🚀 Interests
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:000000,50:00FF41,100:000000&text=⚡%20SYSTEM%20INFO&fontColor=00FF41&fontSize=35&animation=twinkling"/>
+</p>
 
-- 🏢 Enterprise Systems
-- 🏗 Software Architecture
-- 📊 Business Analysis
-- 💻 Full Stack Development
-- 🌐 RESTful API Engineering
-- 🗄 Database Design
-- 📈 Data Engineering
-
-### 🌱 Currently Learning
-
-- ☁ Cloud Computing
-- 🐳 Docker
-- ⚡ Spring Boot
-- 🧩 Microservices Architecture
-- 🏛 Enterprise Architecture
-- ☸ Kubernetes
+```diff
+╔══════════════════════════════════════════════════════════════╗
++ USERNAME        :: VikumD
++ NAME            :: Vikum D
++ ROLE            :: Cybersecurity Undergraduate
++ UNIVERSITY      :: SLIIT
++ YEAR            :: 03 | Semester 01
++ DOMAIN          :: Cybersecurity
++ FOCUS           :: AI Security | Offensive Security
++ INTERESTS       :: Web Security | Network Security | Malware Analysis
++ LANGUAGES       :: Python | C | Java | Bash
++ TOOLS           :: Kali Linux | Burp Suite | Wireshark | Metasploit
++ PLATFORM        :: Linux
++ STATUS          :: ONLINE
++ MISSION         :: Learn • Secure • Innovate
++ ACCESS LEVEL    :: AUTHORIZED
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ## 🛠 Tech Stack
 
@@ -135,32 +139,49 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ---
 
-## 🚀 Current Focus
+```bash
+┌──(root㉿vikumd)-[/home/security]
+└─$ whoami
 
-✔ Enterprise Application Development
+Vikum D
 
-✔ RESTful APIs
+┌──(root㉿vikumd)-[/home/security]
+└─$ system-status
 
-✔ Software Architecture
+USER          : VikumD
+ROLE          : Cybersecurity Undergraduate
+INSTITUTE     : SLIIT
+YEAR          : 3rd Year | Semester 01
 
-✔ System Design
+SPECIALTY     : AI Security
+FOCUS         : Offensive Security
+TARGETS       : Web • Network • Cloud
 
-✔ Database Optimization
+OS            : Kali Linux
+EDITOR        : VS Code
+SHELL         : ZSH
+STATUS        : ACTIVE
 
-✔ Business Process Modeling
-
-✔ Information Systems Engineering
-
+MISSION       : Exploit → Analyze → Secure
+```
 ---
 
-## 📂 Featured Projects
+```diff
+██████████████████████████████████████████████████████████
 
-### 🛒 Enterprise E-Commerce System
++ ID            : VikumD
++ MODE          : CYBERSECURITY
++ CLEARANCE     : LEVEL-03
++ ORGANIZATION  : SLIIT
++ SPECIALTY     : AI SECURITY
++ OPERATIONS    : OFFENSIVE SECURITY
++ TOOLKIT       : BURP • NMAP • WIRESHARK • METASPLOIT
++ LANGUAGE      : PYTHON • C • BASH
++ OS            : KALI LINUX
++ STATUS        : MONITORING...
 
-- Spring Boot
-- MySQL
-- REST API
-- JWT Authentication
+██████████████████████████████████████████████████████████
+```
 
 ---
 
