@@ -1,18 +1,18 @@
-# <h1 align="center">Hi 👋, I'm Jeewantha Dissanayake</h1>
-
-<h3 align="center">
-Information Systems Engineering (ISE) Undergraduate | Full Stack Developer | Systems Analyst
-</h3>
+<h1 align="center">
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Jeewantha Dissanayake
+</h1>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Information+Systems+Engineering+Student;Enterprise+Application+Developer;Systems+Analysis+%26+Design;Spring+Boot+Developer;Business+Process+Optimization;Always+Learning+New+Technologies"/>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Information+Systems+Engineering+Student;Enterprise+Application+Developer;Systems+Analysis+%26+Design;Spring+Boot+Developer;Business+Process+Optimization;Always+Learning+New+Technologies" />
-
+<p align="center">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
 
 🎓 3rd Year Information Systems Engineering Undergraduate at SLIIT
 
@@ -34,8 +34,6 @@ Information Systems Engineering (ISE) Undergraduate | Full Stack Developer | Sys
 - Cloud Computing
 - Docker
 - Kubernetes
-
----
 
 ## 🛠 Tech Stack
 
