@@ -54,9 +54,6 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ## 🛠 Tech Stack
 
-<p align="left">
-  <img width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</p>
 <table>
 <tr>
 <td width="60%">
