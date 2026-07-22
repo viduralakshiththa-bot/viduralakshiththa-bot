@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:00ff41,100:000000&text=VIKUM%20D&fontColor=00ff41&fontAlign=50&fontSize=70&desc=AI%20SECURITY%20ENGINEER%20|%20ETHICAL%20HACKER&descAlign=50&descAlignY=70&animation=twinkle" width="100%" />
+</p>
 <h1 align="center">
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Jeewantha Dissanayake
 </h1>
