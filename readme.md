@@ -29,9 +29,6 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0F2027,50:00C2FF,100:2C5364&text=👨‍💻%20About%20Me&fontColor=FFFFFF&fontSize=35&animation=fadeIn" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
-</p>
 
 🎓 **3rd Year (1st Semester)** Information Systems Engineering Undergraduate at **SLIIT**
 
@@ -57,6 +54,10 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 - ☸ Kubernetes
 
 ## 🛠 Tech Stack
+
+<p align="center">
+<img width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</p>
 
 ### Programming Languages
 
