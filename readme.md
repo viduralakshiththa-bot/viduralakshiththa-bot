@@ -21,7 +21,6 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <p align="center">
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
 </p>
----
 
 <!-- ================= ABOUT ME ================= -->
 
@@ -55,9 +54,12 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ## 🛠 Tech Stack
 
-<p align="center">
-<img width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="left">
+  <img width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </p>
+<table>
+<tr>
+<td width="60%">
 
 ### Programming Languages
 
@@ -82,7 +84,16 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,postman,vscode" />
 </p>
+</td>
 
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+
+</td>
+
+</tr>
+</table>
 ---
 
 ## 📊 GitHub Statistics
@@ -220,3 +231,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 ## ⚡ Quote
 
 > "Information Systems Engineering is where technology meets business to create scalable solutions."
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F2027,50:00C2FF,100:2C5364"/>
+</p>
